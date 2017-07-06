@@ -1,2 +1,2 @@
 # ansage
-Project for Web Programming Languages
+Project in Web Programming Languages
